@@ -1,0 +1,1 @@
+Selamat Datang di Politeknik STMI Jakarta
