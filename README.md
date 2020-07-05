@@ -66,3 +66,8 @@ V.1.1 - 21 May 2015
 * Add client side datatables
 
 **Copyright 2015 [harviacode.com](http://harviacode.com)**
+
+
+Install:<br>
+Download dan ubah nama folder menjadi myCI_1317099<br>
+Install Database dalam folder database<br>
